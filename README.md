@@ -6,18 +6,26 @@ A jekyll theme with inspiration from linux consoles for hackers, developers and 
 
 ## Demo
 
-[dark style](https://b2a3e8.github.io/jekyll-theme-console-demo-dark/) ([source code](https://github.com/b2a3e8/jekyll-theme-console-demo-dark))
+[dark style](https://b2a3e8.github.io/jekyll-theme-console-demo-dark/) ([source code](https://github.com/b2a3e8/jekyll-theme-console-demo-dark)):
 
-[light style](https://b2a3e8.github.io/jekyll-theme-console-demo-light/) ([source code](https://github.com/b2a3e8/jekyll-theme-console-demo-light))
+[<img src="https://raw.githubusercontent.com/b2a3e8/jekyll-theme-console/master/screenshot-dark.png" width="350" title="Screenshot">](https://b2a3e8.github.io/jekyll-theme-console-demo-dark/)
 
-[hacker style](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/) ([source code](https://github.com/b2a3e8/jekyll-theme-console-demo-hacker))
+
+[light style](https://b2a3e8.github.io/jekyll-theme-console-demo-light/) ([source code](https://github.com/b2a3e8/jekyll-theme-console-demo-light)):
+
+[<img src="https://raw.githubusercontent.com/b2a3e8/jekyll-theme-console/master/screenshot-light.png" width="350" title="Screenshot">](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
+
+
+[hacker style](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/) ([source code](https://github.com/b2a3e8/jekyll-theme-console-demo-hacker)):
+
+[<img src="https://raw.githubusercontent.com/b2a3e8/jekyll-theme-console/master/screenshot-hacker.png" width="350" title="Screenshot">](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/)
 
 
 ## Installation
 
 First, follow the steps in [this Quickstart Guide](https://jekyllrb.com/docs/) if you're starting with Jekyll from scratch. Skip this if you already have an existing jekyll project.
 
-You can also use the [demo site source code](https://b2a3e8.github.io/jekyll-theme-console-demo-dark/) as template for an easy start.
+**_You can also use the [demo site's source code](https://b2a3e8.github.io/jekyll-theme-console-demo-dark/) as template for an easy start._**
 
 ### Remote theme method for GitHub Pages
 
